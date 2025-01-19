@@ -13,3 +13,6 @@
 [submodule "Overflow/lib/forge-std"]
 	path = Overflow/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "UnsafeOwnershipTransfer/lib/forge-std"]
+	path = UnsafeOwnershipTransfer/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
