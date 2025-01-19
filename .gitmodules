@@ -7,3 +7,6 @@
 [submodule "BypassContractSizeCheck/lib/forge-std"]
 	path = BypassContractSizeCheck/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "ReentrancyAttack./lib/forge-std"]
+	path = ReentrancyAttack./lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
