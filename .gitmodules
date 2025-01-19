@@ -16,3 +16,6 @@
 [submodule "UnsafeOwnershipTransfer/lib/forge-std"]
 	path = UnsafeOwnershipTransfer/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "LoopThroughLongArrays/lib/forge-std"]
+	path = LoopThroughLongArrays/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
