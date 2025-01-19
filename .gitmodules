@@ -10,3 +10,6 @@
 [submodule "ReentrancyAttack./lib/forge-std"]
 	path = ReentrancyAttack./lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "Overflow/lib/forge-std"]
+	path = Overflow/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
