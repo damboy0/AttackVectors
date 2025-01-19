@@ -1,3 +1,6 @@
 [submodule "AccountExistenceCheck/lib/forge-std"]
 	path = AccountExistenceCheck/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "CodeWithNoEffects/lib/forge-std"]
+	path = CodeWithNoEffects/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
